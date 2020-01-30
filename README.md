@@ -11,7 +11,7 @@ There are three simple beautiful screens.
 -  **Chat Screen**
 
 ## Create files and folders
-![Splash Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040711%5B1%5D.png?alt=media&token=36766316-d362-4214-b3c4-14cf12d79fb4 | width=250)
+![Splash Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040711%5B1%5D.png?alt=media&token=36766316-d362-4214-b3c4-14cf12d79fb4 width=250)
 ![Recent Chat Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040722%5B1%5D.png?alt=media&token=345c8f79-3b9c-43aa-af6c-0af2b95187e4 =640x360)
 ![Chat Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040735%5B1%5D.png?alt=media&token=e70b3eb8-d68a-4c01-b11b-c3701de4d6e4 =640x360)
 
