@@ -1,16 +1,18 @@
-# flutter_chatss
+# Flutter Custom Chat UI
 
-A new Flutter Chat application.
+Hi! The goal of project is to provide the custom flutter chat ui with beautiful design. This is pure front-end based coding with flutter. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# UI Screens
 
-A few resources to get you started if this is your first Flutter project:
+There are three simple beautiful screens.
+- **Splash Screen**
+-  **Recent Chat Screen**
+-  **Chat Screen**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Create files and folders
+![Splash Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects/FlutterCustomChatUi/Screenshot_20200129-040711%5B1%5D.png)
+![Recent Chat Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects/FlutterCustomChatUi/Screenshot_20200129-040722%5B1%5D.png)
+![Chat Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects/FlutterCustomChatUi/Screenshot_20200129-040735%5B1%5D.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Happy Coding**
