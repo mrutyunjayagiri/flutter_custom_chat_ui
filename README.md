@@ -10,9 +10,10 @@ There are three simple beautiful screens.
 -  **Recent Chat Screen**
 -  **Chat Screen**
 
-## Create files and folders
-![Splash Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040711%5B1%5D.png?alt=media&token=36766316-d362-4214-b3c4-14cf12d79fb4)
-![Recent Chat Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040722%5B1%5D.png?alt=media&token=345c8f79-3b9c-43aa-af6c-0af2b95187e4)
-![Chat Screen](https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040735%5B1%5D.png?alt=media&token=e70b3eb8-d68a-4c01-b11b-c3701de4d6e4)
+## UI Snapshots
+<img width="200" alt="portfolio_view" src="https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040711%5B1%5D.png?alt=media&token=36766316-d362-4214-b3c4-14cf12d79fb4">
+<img width="200" alt="portfolio_view" src="https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040722%5B1%5D.png?alt=media&token=345c8f79-3b9c-43aa-af6c-0af2b95187e4">
+<img width="200" alt="portfolio_view" src="https://firebasestorage.googleapis.com/v0/b/mywebsite-6b38e.appspot.com/o/Github%20Projects%2FFlutterCustomChatUi%2FScreenshot_20200129-040735%5B1%5D.png?alt=media&token=e70b3eb8-d68a-4c01-b11b-c3701de4d6e4">
+
 
 **Happy Coding**
